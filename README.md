@@ -109,8 +109,12 @@ En esta sección el usuario podrá resolver dudas o  problemas que pueda encontr
 
 - Helen Parga
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Deivid Velasquez
 >>>>>>> 71c0c72 (docs :art: Modificacion del README)
 =======
 - Daivid Velasquez
 >>>>>>> 9ccd0c1 (feat :memo: Inicio de README)
+=======
+- Deivid Velasquez
+>>>>>>> 0c492d5 (docs :memo: Actualizacion de nombres)
